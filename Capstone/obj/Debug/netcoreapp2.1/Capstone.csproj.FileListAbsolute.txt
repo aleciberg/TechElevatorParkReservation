@@ -1,0 +1,11 @@
+C:\Users\aleci\team7-c-sharp-week6-pair-exercises\08-Capstone\capstone\bin\Debug\netcoreapp2.1\Capstone.deps.json
+C:\Users\aleci\team7-c-sharp-week6-pair-exercises\08-Capstone\capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.json
+C:\Users\aleci\team7-c-sharp-week6-pair-exercises\08-Capstone\capstone\bin\Debug\netcoreapp2.1\Capstone.runtimeconfig.dev.json
+C:\Users\aleci\team7-c-sharp-week6-pair-exercises\08-Capstone\capstone\bin\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\aleci\team7-c-sharp-week6-pair-exercises\08-Capstone\capstone\bin\Debug\netcoreapp2.1\Capstone.pdb
+C:\Users\aleci\team7-c-sharp-week6-pair-exercises\08-Capstone\capstone\obj\Debug\netcoreapp2.1\Capstone.csprojAssemblyReference.cache
+C:\Users\aleci\team7-c-sharp-week6-pair-exercises\08-Capstone\capstone\obj\Debug\netcoreapp2.1\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\aleci\team7-c-sharp-week6-pair-exercises\08-Capstone\capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfoInputs.cache
+C:\Users\aleci\team7-c-sharp-week6-pair-exercises\08-Capstone\capstone\obj\Debug\netcoreapp2.1\Capstone.AssemblyInfo.cs
+C:\Users\aleci\team7-c-sharp-week6-pair-exercises\08-Capstone\capstone\obj\Debug\netcoreapp2.1\Capstone.dll
+C:\Users\aleci\team7-c-sharp-week6-pair-exercises\08-Capstone\capstone\obj\Debug\netcoreapp2.1\Capstone.pdb
